@@ -9,6 +9,10 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
             Console.WriteLine("From cpit! XD");
             Console.ReadKey();
+            Console.WriteLine("testing");
+            Console.ReadLine();
+
+           
         }
     }
 }
